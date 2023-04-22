@@ -1,0 +1,49 @@
+[
+  {
+    "Id": 1,
+    "SellRent": 1,
+    "Name": "Birla House",
+    "Type": "House",
+    "Price": 12000,
+    "Image": "prop-1"
+  },
+  {
+    "Id": 2,
+    "SellRent": 2,
+    "Name": "Minchin House",
+    "Type": "small house",
+    "Price": 12500,
+    "Image": "prop-2"
+  },
+  {
+    "Id": 3,
+    "SellRent": 1,
+    "Name": "Pavan richie",
+    "Type": "Big villa",
+    "Price": 30000,
+    "Image": "prop-3"
+  },
+  {
+    "Id": 4,
+    "SellRent": 1,
+    "Name": "Erose villa",
+    "Type": "Villa",
+    "Price": 14000,
+    "Image": "prop-4"
+  },
+  {
+    "Id": 5,
+    "SellRent": 2,
+    "Name": "Rich mansion",
+    "Type": "mansion",
+    "Price": 19000,
+    "Image": "prop-5"
+  },
+  {
+    "Id": 6,
+    "SellRent": 1,
+    "Name": "Academy mansion",
+    "Type": "Academy",
+    "Price": 25000
+  }
+]
