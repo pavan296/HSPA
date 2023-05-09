@@ -1,0 +1,10 @@
+.auth{
+  position: relative;
+  float: right;
+  justify-content: right;
+  display: flex;
+}
+
+.nav-item{
+  color: aqua;
+}
