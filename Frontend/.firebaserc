@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "housing-pav"
+  },
+  "targets": {
+    "housing-pav": {
+      "hosting": {
+        "hspa": [
+          "housing-pav"
+        ]
+      }
+    }
+  }
+}
